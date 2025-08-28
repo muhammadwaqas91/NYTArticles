@@ -1,0 +1,15 @@
+{
+  "originHash" : "0fe991bdbc56a540ef582bdcd0c7cde8fabde1b553ac461aedb784300e4f3215",
+  "pins" : [
+    {
+      "identity" : "restapiframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/muhammadwaqas91/RestAPIFramework.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "bac6645dee95f9021594e24926f7eb8c973a6be6"
+      }
+    }
+  ],
+  "version" : 3
+}
